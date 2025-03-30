@@ -1,0 +1,5 @@
+/home/klum/CLionProjects/GogolWriter/CMakeFiles/MinimalWriter.dir
+/home/klum/CLionProjects/GogolWriter/CMakeFiles/edit_cache.dir
+/home/klum/CLionProjects/GogolWriter/CMakeFiles/rebuild_cache.dir
+/home/klum/CLionProjects/GogolWriter/CMakeFiles/MinimalWriter_autogen_timestamp_deps.dir
+/home/klum/CLionProjects/GogolWriter/CMakeFiles/MinimalWriter_autogen.dir

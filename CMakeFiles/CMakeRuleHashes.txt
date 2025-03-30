@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+448cabb97d9bf964f9566e323b6737f2 CMakeFiles/MinimalWriter_autogen
+b425bcd2a10e95ff1978590adf9ed77b MinimalWriter_autogen/timestamp
